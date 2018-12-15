@@ -2,7 +2,7 @@
 
 <a name="intro"></a>
 # REALITY IS A LIE
-Description.
+This used to be a music project (deathcore) back in the Kult RPG days - heavily inspired with the concept of living in an illusion.
 
 ![GALLERY QUAD](/assets/template_visuals/temp-dual-gallery.png)
 
